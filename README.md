@@ -1,5 +1,9 @@
 ## This is Mario González 👋
 
+<a href="www.linkedin.com/in/mario-gonzález-crespo-b79595240">Linkedin</a>
+
+<p>Hi, my name is Mario González. I'm from Valencia, Spain. I'm currently studding a master degree at EDEM in web development, AI and Devops</p>
+
 <!--
 **Magocres/Magocres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
