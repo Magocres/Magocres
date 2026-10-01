@@ -1,8 +1,8 @@
-<h1 text-align="center"> This is Mario González 👋 </h1>
+<h1 align="center"> This is Mario González 👋 </h1>
 
-<a text-align="center" href="www.linkedin.com/in/mario-gonzález-crespo-b79595240">Linkedin</a>
+<p align="center"><a href="www.linkedin.com/in/mario-gonzález-crespo-b79595240">Linkedin</a></p>
 
-<p text-align="center">Hi, my name is Mario González. I'm from Valencia, Spain. I'm currently studding a master degree at EDEM in web development, AI and Devops</p>
+<p align="center">Hi, my name is Mario González. I'm from Valencia, Spain. I'm currently studding a master degree at EDEM in web development, AI and Devops</p>
 
 <!--
 **Magocres/Magocres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
